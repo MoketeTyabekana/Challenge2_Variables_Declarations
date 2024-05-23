@@ -11,17 +11,17 @@ console.log(myString);
 
 //Number variable
 let firstNumber=20;
-console.log(firstNumber);
+console.log('First Number:'+ firstNumber);
 
 let secondNumber=40;
-console.log(secondNumber);
+console.log('Second Number:'+ secondNumber);
 
 //Re-Assigning the secondNumber to a new value.
 secondNumber=80;
-console.log(secondNumber);
+console.log('Re-Assigned Second Number:'+ secondNumber);
 
 //Array
 let myArray=['myBolean','myString'];
-console.log(myArray[0]);
+console.log('Value at index 0:'+ myArray[0]);
 
 
